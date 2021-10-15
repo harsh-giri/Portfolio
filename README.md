@@ -1,2 +1,3 @@
-# Frontend portion of a portfolio website without any personal details added as of now.
+# Portfolio website with just the Frontend portion without any personal details which is to be added later.
 # Responsiveness to be added later
+
